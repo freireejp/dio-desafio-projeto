@@ -1,2 +1,2 @@
-# dio-desafio-projeto
-Desafio de projeto da DIO.
+# Desafio de projeto da DIO
+Olá! Este repositório foi criado como atividade de um bootcamp da DIO.
